@@ -1,0 +1,7 @@
+{
+  "packagerPort": 8081,
+  "exponentServerPort": 19000,
+  "exponentServerNgrokUrl": "https://gq-7qc.sereja.erkin.exp.direct",
+  "packagerNgrokUrl": "https://packager.gq-7qc.sereja.erkin.exp.direct",
+  "ngrokPid": 13012
+}
